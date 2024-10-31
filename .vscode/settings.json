@@ -1,0 +1,14 @@
+{
+    "typescript.locale": "auto",
+    "terminal.integrated.detectLocale": "on"
+    // "terminal.integrated.profiles.windows": {
+    //     "GitBash": {
+    //     "source": "Git Bash",
+    //     "args": ["--login", "-i"],
+    //     "env": {
+    //     "LANG": "ko_KR.UTF-8"
+    //     }
+    //     }
+    //     },
+    //     "terminal.integrated.defaultProfile.windows": "Windows PowerShell"
+}
